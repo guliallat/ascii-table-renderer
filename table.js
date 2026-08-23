@@ -1,0 +1,1 @@
+function render(h, rows) { return '+---+'; } module.exports = { render };
